@@ -1,0 +1,32 @@
+target/
+pom.xml.tag
+pom.xml.releasebackup
+pom.xml.versionBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+#IntelliJ Project Files
+*.iml
+*.iws
+*.ipr
+.idea/
+out/
+
+#Eclipse Project Files
+.sesttings/
+.classpath
+.project
+
+*.iml
+logs
+/bin/
+.DS_Store
+
+.settings/
+test-output/
+/.factrypath
+/.classpath
+/.metadata/
+*.class
