@@ -9,13 +9,10 @@ public class SwapKthElements {
     }
     static void swapKth(int arr[], int n, int k) {
         // code here
-        for(int start=0, end=n-1; start<=end; start++, end--){
-            if(start==k && end==n-k){
-                int temp = arr[start];
-                arr[start]=arr[end];
-                arr[end]=temp;
-            }
-        }
+        int temp = arr[k-1];
+        arr[k-1] = arr[n-k];
+        arr[n-k] = temp;
+
         for(int i : arr){
             System.out.print(i+" ");
         }
