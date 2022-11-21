@@ -1,4 +1,4 @@
-package com.geeksforgeeks;
+package com.geeksforgeeks.Strings;
 
 public class LongestStringInArray {
 

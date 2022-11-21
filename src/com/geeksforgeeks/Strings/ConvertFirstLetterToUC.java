@@ -1,4 +1,4 @@
-package com.geeksforgeeks;
+package com.geeksforgeeks.Strings;
 
 public class ConvertFirstLetterToUC {
     //https://practice.geeksforgeeks.org/problems/upper-case-conversion5419

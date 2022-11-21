@@ -1,4 +1,4 @@
-package com.geeksforgeeks;
+package com.geeksforgeeks.Strings;
 
 public class RemoveCharactersFromString {
     //https://practice.geeksforgeeks.org/problems/remove-characters-from-alphanumeric-string0648

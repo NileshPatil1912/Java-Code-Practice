@@ -1,4 +1,4 @@
-package com.geeksforgeeks;
+package com.geeksforgeeks.Strings;
 
 public class ConvertListOfCharToString {
     //https://practice.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1?page=1&category[]=Strings&sortBy=difficulty
