@@ -22,7 +22,7 @@ public class FirstElementKTime {
                 arrayElementCounts.put(a[i],1);
             }
         }
-        System.out.println(arrayElementCounts);
+
         for(Map.Entry<Integer, Integer> entry: arrayElementCounts.entrySet()) {
             if(entry.getValue() >= k) {
                 return entry.getKey();
